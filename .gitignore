@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.npm-cache/
+.npmrc
+AGENTS.md
+.env
+.env.local
+.env.*.local
+
+*.log
+.DS_Store
+Thumbs.db
